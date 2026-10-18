@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/new-map-bloxstrike-s0-kr1u5cl6djir6o.lua"))()
