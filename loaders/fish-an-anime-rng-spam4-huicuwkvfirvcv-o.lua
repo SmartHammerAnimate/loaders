@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/fish-an-anime-rng-spam4-huicuwkvfirvcv.lua"))()
