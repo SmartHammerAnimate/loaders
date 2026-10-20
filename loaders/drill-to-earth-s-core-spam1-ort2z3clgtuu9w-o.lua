@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/drill-to-earth-s-core-spam1-ort2z3clgtuu9w.lua"))()
