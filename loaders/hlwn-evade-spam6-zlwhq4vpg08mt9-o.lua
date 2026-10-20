@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/hlwn-evade-spam6-zlwhq4vpg08mt9.lua"))()
