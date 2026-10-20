@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/sell-fries-anomaly-spam3-5ydcodovgw44cw.lua"))()
