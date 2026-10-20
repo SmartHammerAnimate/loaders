@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/blox-fruits-spam3-ftwo1q91gp6a75.lua"))()
