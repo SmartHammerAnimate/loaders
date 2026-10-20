@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/rally-wrong-way-spam6-k0z18s43grtpoi.lua"))()
