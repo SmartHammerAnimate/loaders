@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/shogun-s-reign-spam1-l16ix8s0hysu92.lua"))()
