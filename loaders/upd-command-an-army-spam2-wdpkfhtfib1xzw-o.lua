@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/upd-command-an-army-spam2-wdpkfhtfib1xzw.lua"))()
