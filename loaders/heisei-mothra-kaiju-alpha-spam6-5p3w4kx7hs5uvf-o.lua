@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/heisei-mothra-kaiju-alpha-spam6-5p3w4kx7hs5uvf.lua"))()
