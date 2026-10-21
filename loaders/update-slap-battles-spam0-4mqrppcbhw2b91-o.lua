@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/update-slap-battles-spam0-4mqrppcbhw2b91.lua"))()
