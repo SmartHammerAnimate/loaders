@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/mafuba-anime-astral-simulator-spam6-6lo8oy4dhia54n.lua"))()
