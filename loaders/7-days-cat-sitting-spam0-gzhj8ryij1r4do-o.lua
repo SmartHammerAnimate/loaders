@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/7-days-cat-sitting-spam0-gzhj8ryij1r4do.lua"))()
