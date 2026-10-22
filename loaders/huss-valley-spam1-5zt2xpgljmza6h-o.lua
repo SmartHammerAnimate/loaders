@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/huss-valley-spam1-5zt2xpgljmza6h.lua"))()
