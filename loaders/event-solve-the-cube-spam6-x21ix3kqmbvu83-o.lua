@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/event-solve-the-cube-spam6-x21ix3kqmbvu83.lua"))()
