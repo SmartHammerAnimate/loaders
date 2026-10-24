@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/build-and-conquer-v0-1-spam2-b73z0m0hn0ynx2.lua"))()
