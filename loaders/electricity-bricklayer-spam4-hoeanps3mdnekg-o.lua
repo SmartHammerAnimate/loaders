@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/electricity-bricklayer-spam4-hoeanps3mdnekg.lua"))()
