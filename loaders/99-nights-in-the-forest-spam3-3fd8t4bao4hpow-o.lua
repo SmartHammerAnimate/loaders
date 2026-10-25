@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/99-nights-in-the-forest-spam3-3fd8t4bao4hpow.lua"))()
