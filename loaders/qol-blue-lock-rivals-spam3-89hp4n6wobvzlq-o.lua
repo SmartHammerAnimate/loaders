@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/qol-blue-lock-rivals-spam3-89hp4n6wobvzlq.lua"))()
