@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/war-of-the-worlds-spam3-jjbgno1hobfiht.lua"))()
