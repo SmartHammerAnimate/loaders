@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/bee-swarm-simulator-spam3-t6wvuh1mo587kw.lua"))()
