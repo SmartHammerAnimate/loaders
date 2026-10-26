@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmartHammerAnimate/loaders/main/loaders/chop-a-forest-spam2-uqtekzruomlaa7.lua"))()
